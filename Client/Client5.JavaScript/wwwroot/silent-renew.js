@@ -1,0 +1,2 @@
+﻿
+new Oidc.UserManager().signinSilentCallback();
