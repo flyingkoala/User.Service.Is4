@@ -1,0 +1,16 @@
+/.vs
+/Client/Client1.ClientCredentials/bin
+/Client/Client1.ClientCredentials/obj
+/Client/Client2.ResourceOwnerPassword/bin
+/Client/Client2.ResourceOwnerPassword/obj
+/Client/Client3.ImplicitFlow/bin
+/Client/Client3.ImplicitFlow/obj
+/Client/Client4.HybridFlow/bin
+/Client/Client4.HybridFlow/obj
+/Client/Client5.JavaScript/bin
+/Client/Client5.JavaScript/obj
+/Client/Resource/Api1/bin
+/Client/Resource/Api1/obj
+/Client/Server/User.Server/bin
+/Client/Server/User.Server/obj
+
